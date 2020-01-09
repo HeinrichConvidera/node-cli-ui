@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^3.0.0",
     "clui": "^0.3.6",
-    "inquirer": "^7.0.3"
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.3",
+    "inquirer-search-checkbox": "^1.0.0"
   }
 }
